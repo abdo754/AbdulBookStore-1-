@@ -19,3 +19,4 @@ part 1(1.3 Bootstrap)
 downlaod a bootstrap and now adding it on 
 add the filr of bootstrap
 edit the layout folder(by remvoing the DARK -text)
+add  text-white-50 bg-primary
