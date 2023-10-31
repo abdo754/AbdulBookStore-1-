@@ -36,3 +36,4 @@ Modify the apllicition namespace
 removed all of cs1
 adding the project prefance and also chaning the name of models folder 
 adding the ViewModels
+mofity the project by changing to  AbdulBookStore.Models.ViewModels.ErrorViewModel
