@@ -44,3 +44,4 @@ added proect refeince and aslo a new cs in utility
 addded a folder in area called Customers 
 changed the routes in startups.cs
 moved the homeController.cs to areas> controllers
+edited the homecountroller 
