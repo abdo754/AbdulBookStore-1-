@@ -40,3 +40,4 @@ mofity the project by changing to  AbdulBookStore.Models.ViewModels.ErrorViewMod
 it works!!!
 
 adding a new cs called(SD.cs)
+added proect refeince and aslo a new cs in utility
