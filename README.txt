@@ -49,3 +49,4 @@ moves home file to customer >view
 no work??!!
 the rouots was wrong lets see if this work 
 no work?!!
+CHNAGE THE ROUTE BY MANULY PUTTING THE WAY TO GO (not in slide?)
