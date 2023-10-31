@@ -28,3 +28,6 @@ nvm make it work for got to close the tag
 Change the name 
 
 part 1(1.4 Add Project and Modify)
+adding new project to it 
+and putting the data foleder in the Dataaccess
+removed Migrations 
