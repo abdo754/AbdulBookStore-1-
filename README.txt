@@ -31,3 +31,5 @@ part 1(1.4 Add Project and Modify)
 adding new project to it 
 and putting the data foleder in the Dataaccess
 removed Migrations 
+added the identity .net 
+Modify the apllicition namespace 
