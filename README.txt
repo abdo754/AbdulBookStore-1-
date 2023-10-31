@@ -34,3 +34,4 @@ removed Migrations
 added the identity .net 
 Modify the apllicition namespace 
 removed all of cs1
+adding the project prefance and also chaning the name of models folder 
