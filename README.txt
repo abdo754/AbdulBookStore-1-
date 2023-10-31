@@ -33,3 +33,4 @@ and putting the data foleder in the Dataaccess
 removed Migrations 
 added the identity .net 
 Modify the apllicition namespace 
+removed all of cs1
