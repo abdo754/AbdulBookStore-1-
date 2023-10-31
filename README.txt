@@ -46,3 +46,6 @@ changed the routes in startups.cs
 moved the homeController.cs to areas> controllers
 edited the homecountroller 
 moves home file to customer >view
+no work??!!
+the rouots was wrong lets see if this work 
+no work?!!
