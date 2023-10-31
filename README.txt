@@ -26,3 +26,5 @@ add a  new list in the project
 "dropdown" does not wokr 
 nvm make it work for got to close the tag 
 Change the name 
+
+part 1(1.4 Add Project and Modify)
