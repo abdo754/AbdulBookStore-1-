@@ -45,3 +45,4 @@ addded a folder in area called Customers
 changed the routes in startups.cs
 moved the homeController.cs to areas> controllers
 edited the homecountroller 
+moves home file to customer >view
