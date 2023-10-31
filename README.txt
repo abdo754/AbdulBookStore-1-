@@ -50,4 +50,6 @@ no work??!!
 the rouots was wrong lets see if this work 
 no work?!!
 CHANGE THE ROUTE BY MANULY PUTTING THE WAY TO GO (not in slide?)
-the way the slide showed did not work i have removed the index.html and priveacy baucase it was not there but when u put them back it work 
+the way the slide showed did not work i have removed the index.html and priveacy baucase it was not there but when u put them back it work
+done the work can not belive it FINALLY!!!!!
+
