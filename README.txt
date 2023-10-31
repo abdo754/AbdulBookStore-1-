@@ -21,4 +21,5 @@ add the filr of bootstrap
 edit the layout folder(by remvoing the DARK -text)
 add  text-white-50 bg-primary
 removed the dark-text in _loginPartial 
-adding the links that you have proived use with 
+adding the links that you have proived use with
+add a  new list in the project 
