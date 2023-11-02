@@ -60,4 +60,4 @@ create the BD
 
 EDITED THE apppsetting.json
 i have add the  migration to dataaccess
-just add table in in models category
+add new table and aslo new class 
