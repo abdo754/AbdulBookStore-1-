@@ -58,3 +58,4 @@ done the work can not belive it FINALLY!!!!!
 PART 2
 create the BD
 
+EDITED THE apppsetting.json
