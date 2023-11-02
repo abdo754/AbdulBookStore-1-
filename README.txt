@@ -59,3 +59,4 @@ PART 2
 create the BD
 
 EDITED THE apppsetting.json
+i have add the  migration to dataaccess
