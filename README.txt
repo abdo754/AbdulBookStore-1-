@@ -61,3 +61,6 @@ create the BD
 EDITED THE apppsetting.json
 i have add the  migration to dataaccess
 add new table and aslo new class 
+
+11/6/2023
+just add addcategory different way i guess 
